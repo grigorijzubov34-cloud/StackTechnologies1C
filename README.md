@@ -1,6 +1,6 @@
 [![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/2/429536375.json)](https://openyellow.org/grid?data=top&repo=429536375) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-blue)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-blue)](http://infostart.ru/profile/237528/)
 
-# Стек технологий для 1С
+# Стек технологий для 1С Мое изменение
 
 <img title="StackTechnology" alt="StackTechnology" src="img/stacktechnology.png">
 
